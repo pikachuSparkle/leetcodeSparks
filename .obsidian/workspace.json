@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ed4b9f12a96c055a",
+        "id": "92526f6fa169ce72",
         "type": "tabs",
         "children": [
           {
-            "id": "7893af8e45f76aab",
+            "id": "16a60c1f09d881b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Algorithm-BackTracking/17. Letter Combinations of a Phone Number.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17. Letter Combinations of a Phone Number"
+              "title": "README"
             }
           }
         ]
@@ -164,17 +164,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7893af8e45f76aab",
+  "active": "16a60c1f09d881b6",
   "lastOpenFiles": [
-    "Excalidraw/Leetcode - Recursion - 206 Reverse Linked List.md",
-    "Excalidraw/Leetcode - Recursion - 24 Swap Nodes in Pairs.md",
-    "Excalidraw/Leetcode - Quick Sort - 912 Sort an Array.md",
-    "Excalidraw/Leetcode - Merge Sort - 88 Merge Sorted Array.md",
-    "Excalidraw/Leetcode - Linked List - 707 Design Linked List.md",
-    "Excalidraw/Leetcode - DP - 70 Climbing Stairs.md",
+    "LeetCode/顺序.md",
+    "README.md",
     "Excalidraw/Leetcode - Binary Search - 1095 peak find explainnation.md",
     "Excalidraw/Leetcode - Binary Search - 4 Median of Two Sorted Arrays.md",
     "Excalidraw/Leetcode - BackTracking - 77 Combinations.md",
+    "Excalidraw/Leetcode - Recursion - 24 Swap Nodes in Pairs.md",
+    "Excalidraw/Leetcode - Merge Sort - 88 Merge Sorted Array.md",
+    "Excalidraw/Leetcode - Linked List - 707 Design Linked List.md",
+    "Excalidraw/Leetcode - DP - 70 Climbing Stairs.md",
+    "Excalidraw/Drawing 2024-11-25 07.04.38.excalidraw.md",
+    "LeetCode/Algorithm-BackTracking/17. Letter Combinations of a Phone Number.md",
+    "Excalidraw/Leetcode - Recursion - 206 Reverse Linked List.md",
+    "Excalidraw/Leetcode - Quick Sort - 912 Sort an Array.md",
     "LeetCode/Binary Tree/Binary Search Tree/98.  Validate Binary Search Tree - 1.md",
     "LeetCode/Binary Tree/Binary Tree/98. Validate Binary Search Tree - 2.md",
     "LeetCode/Binary Tree/Binary Search Tree/704. Binary Search (Canonical).md",
@@ -188,10 +192,6 @@
     "Linux/更换证书后发现过期时间没有立刻更新.md",
     "Linux/Base64算法.md",
     "LeetCode/Binary Tree/Binary Tree/112. Path Sum.md",
-    "LeetCode/Binary Tree/Binary Tree/257. Binary Tree Paths.md",
-    "LeetCode/Binary Tree/Binary Tree/513. Find Bottom Left Tree Value.md",
-    "LeetCode/Binary Tree/Binary Tree/102. Binary Tree Level Order Traversal.md",
-    "LeetCode/Tree/Binary Tree/102..md",
     "LeetCode/Algorithm-Greedy",
     "LeetCode/Algorithm-MonotonicStack",
     "LeetCode/Algorithm-BackTracking",
