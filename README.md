@@ -1,12 +1,12 @@
 ## Project Overview
 
-Welcome to my LeetCode Learning Journey project - `leetcodeSparks`! This repository serves as a comprehensive record of my experiences and progress as I tackle various coding challenges on LeetCode.
+Welcome to my LeetCode Learning Journey project - `leetcodeSparks`! This repository serves as a comprehensive record of my experiences and progress as I tackle various coding challenges (only for python and Java temporarily) on LeetCode.
 ## Project Purpose
 
 The primary goal of this project is to establish a structured and effective approach to learning through LeetCode. By organizing my study materials and documenting my thought processes, I aim to enhance my problem-solving skills and improve my coding proficiency. A systematic learning path is crucial for maximizing efficiency, allowing me to build upon foundational concepts as I advance to more complex topics.
 ## Usage Instructions
 
-This project utilizes Obsidian, a powerful knowledge management tool that allows me to organize my notes and insights effectively. Within this setup, I have incorporated numerous charts created with the Excalidraw plugin, which enhances the visual representation of concepts and solutions.
+This project utilizes Obsidian, a powerful knowledge management tool that allows me to organize my notes and insights effectively. Within this setup, I have incorporated numerous charts created with the `Excalidraw` plugin, which enhances the visual representation of concepts and solutions.
 ## Getting Started
 
 #### 1. Clone the Repository: 
