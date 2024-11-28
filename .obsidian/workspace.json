@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "efa2379ac5ffaaf2",
+        "id": "6529a2bcf12ea151",
         "type": "tabs",
         "children": [
           {
-            "id": "ab13037a40e84409",
+            "id": "e607036b40466f08",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -160,8 +160,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4769cd24abfb1bc9",
+  "active": "e607036b40466f08",
   "lastOpenFiles": [
+    "README.md",
     "LeetCode/Binary Tree/Binary Search Tree/530.  Minimum Absolute Difference in BST.md",
     "Excalidraw/Leetcode - Recursion - 24 Swap Nodes in Pairs.md",
     "Excalidraw/Leetcode - Merge Sort - 88 Merge Sorted Array.md",
@@ -172,7 +173,6 @@
     "Excalidraw/Leetcode - DP - 70 Climbing Stairs.md",
     "Excalidraw/Leetcode - Linked List - 707 Design Linked List.md",
     "Excalidraw/Leetcode - Quick Sort - 912 Sort an Array.md",
-    "README.md",
     "LeetCode/顺序.md",
     "Excalidraw/Drawing 2024-11-25 07.04.38.excalidraw.md",
     "LeetCode/Algorithm-BackTracking/17. Letter Combinations of a Phone Number.md",

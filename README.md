@@ -19,7 +19,10 @@ git clone https://github.com/pikachuSparkle/leetcodeSparks.git
 - Install `Excalidraw` Plugin if needed: If you encounter issues with charts not displaying correctly, please ensure that you have the `Excalidraw` plugin installed in your Obsidian environment. You can do this by going to the Obsidian settings, selecting "Community plugins," and searching for `Excalidraw`.
 ## Explore and Learn
 
-Feel free to explore the various notes, diagrams, and solutions I've compiled throughout my learning journey. I hope this project not only aids my own understanding but also serves as a valuable resource for others looking to enhance their skills on LeetCode. Thank you for visiting my repository! Happy coding! This version provides more context about your project, including detailed instructions and an inviting tone for readers. Feel free to adjust any sections as needed!
+Feel free to explore the various notes, diagrams, and solutions I've compiled throughout my learning journey. I hope this project not only aids my own understanding but also serves as a valuable resource for others looking to enhance their skills on `LeetCode`. Thank you for visiting my repository! Happy coding!
+
 ## References:
 https://github.com/youngyangyang04/leetcode-master
+
+Actually, I am approaching for give every notes of my tutorial one video. That's my long term motivation.
 
