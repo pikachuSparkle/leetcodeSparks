@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b0e5dab20d31976e",
+        "id": "b862b6d03f2b52d5",
         "type": "tabs",
         "children": [
           {
-            "id": "36027cd53afd0103",
+            "id": "6f073bbc63cd9033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Binary Tree/Binary Search Tree/450. Delete Node in a BST.md",
+                "file": "LeetCode/Binary Tree/Binary Search Tree/669. Trim a Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "450. Delete Node in a BST"
+              "title": "669. Trim a Binary Search Tree"
             }
           }
         ]
@@ -164,8 +164,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4769cd24abfb1bc9",
+  "active": "6f073bbc63cd9033",
   "lastOpenFiles": [
+    "Excalidraw/Leetcode - Binary Search - 235 .Lowest Common Ancestor of a Binary Search Tree.md",
+    "Excalidraw/Leetcode - Binary Search - 4 Median of Two Sorted Arrays.md",
+    "LeetCode/Binary Tree/Binary Search Tree/669. Trim a Binary Search Tree.md",
     "LeetCode/Binary Tree/Binary Search Tree/450. Delete Node in a BST.md",
     "LeetCode/Binary Tree/Binary Search Tree/701. Insert into a Binary Search Tree.md",
     "LeetCode/Binary Tree/Binary Search Tree/235. Lowest Common Ancestor of a Binary Search Tree.md",
@@ -176,7 +179,6 @@
     "LeetCode/7. Reverse Integer.md",
     "README.md",
     "LeetCode/Binary Tree/Binary Search Tree/4. Median of Two Sorted Arrays.md",
-    "Excalidraw/Leetcode - Binary Search - 235 .Lowest Common Ancestor of a Binary Search Tree.md",
     "LeetCode/Binary Tree/Binary Search Tree/236. Lowest Common Ancestor of a Binary Tree.md",
     "LeetCode/Binary Tree/Binary Search Tree/501. Find Mode in Binary Search Tree.md",
     "LeetCode/Binary Tree/Binary Search Tree/530.  Minimum Absolute Difference in BST.md",
@@ -184,14 +186,12 @@
     "Excalidraw/Leetcode - Merge Sort - 88 Merge Sorted Array.md",
     "Excalidraw/Leetcode - Greedy - 376 Wiggle Subsequence.md",
     "Excalidraw/Leetcode - BackTracking - 77 Combinations.md",
-    "Excalidraw/Leetcode - Binary Search - 4 Median of Two Sorted Arrays.md",
     "Excalidraw/Leetcode - Binary Search - 1095 peak find explainnation.md",
     "Excalidraw/Leetcode - DP - 70 Climbing Stairs.md",
     "Excalidraw/Leetcode - Linked List - 707 Design Linked List.md",
     "Excalidraw/Leetcode - Quick Sort - 912 Sort an Array.md",
     "LeetCode/顺序.md",
     "Excalidraw/Drawing 2024-11-25 07.04.38.excalidraw.md",
-    "LeetCode/Algorithm-BackTracking/17. Letter Combinations of a Phone Number.md",
     "LeetCode/Algorithm-Greedy",
     "LeetCode/Algorithm-MonotonicStack",
     "LeetCode/Algorithm-BackTracking",
