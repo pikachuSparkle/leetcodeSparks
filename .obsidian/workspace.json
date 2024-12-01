@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f94a744b2536a0ce",
+        "id": "23b69c57accbbe51",
         "type": "tabs",
         "children": [
           {
-            "id": "ababac56f54de652",
+            "id": "d714495d5d82484b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/Binary Tree/Binary Search Tree/538. Convert BST to Greater Tree.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "538. Convert BST to Greater Tree"
+              "title": "New tab"
             }
           }
         ]
@@ -166,7 +162,11 @@
   },
   "active": "4769cd24abfb1bc9",
   "lastOpenFiles": [
+    "LeetCode/Algorithm-Two Pointer/19. Remove Nth Node From End of List.md",
+    "LeetCode/Algorithm-Two Pointer/151. Reverse Words in a String.md",
+    "LeetCode/Algorithm-Two Pointer/27. Remove Element.md",
     "LeetCode/Binary Tree/Binary Search Tree/538. Convert BST to Greater Tree.md",
+    "LeetCode/Algorithm-Two Pointer",
     "LeetCode/Binary Tree/Binary Tree/108. Convert Sorted Array to Binary Search Tree.md",
     "LeetCode/Binary Tree/Binary Search Tree/669. Trim a Binary Search Tree.md",
     "Excalidraw/Leetcode - Binary Search - 235 .Lowest Common Ancestor of a Binary Search Tree.md",
@@ -189,9 +189,6 @@
     "Excalidraw/Leetcode - Greedy - 376 Wiggle Subsequence.md",
     "Excalidraw/Leetcode - BackTracking - 77 Combinations.md",
     "Excalidraw/Leetcode - Binary Search - 1095 peak find explainnation.md",
-    "Excalidraw/Leetcode - DP - 70 Climbing Stairs.md",
-    "Excalidraw/Leetcode - Linked List - 707 Design Linked List.md",
-    "Excalidraw/Leetcode - Quick Sort - 912 Sort an Array.md",
     "LeetCode/Algorithm-Greedy",
     "LeetCode/Algorithm-MonotonicStack",
     "LeetCode/Algorithm-BackTracking",
@@ -201,7 +198,6 @@
     "LeetCode/Binary Tree/Binary Tree",
     "LeetCode/String",
     "LeetCode/Stack and Queue",
-    "LeetCode/Binary Tree",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "JAVA/未命名/未命名.canvas",
