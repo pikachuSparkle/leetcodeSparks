@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23b69c57accbbe51",
+        "id": "fe109e183467f4fc",
         "type": "tabs",
         "children": [
           {
-            "id": "d714495d5d82484b",
+            "id": "7f57e95782dd2af4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "LeetCode/Algorithm-Two Pointer/151. Reverse Words in a String.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "151. Reverse Words in a String"
             }
           }
         ]
@@ -73,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 445.5
+    "width": 373.5
   },
   "right": {
     "id": "9bae3a1a3651382f",
@@ -160,11 +164,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4769cd24abfb1bc9",
+  "active": "7f57e95782dd2af4",
   "lastOpenFiles": [
+    "LeetCode/Algorithm-Two Pointer/27. Remove Element.md",
     "LeetCode/Algorithm-Two Pointer/19. Remove Nth Node From End of List.md",
     "LeetCode/Algorithm-Two Pointer/151. Reverse Words in a String.md",
-    "LeetCode/Algorithm-Two Pointer/27. Remove Element.md",
+    "Excalidraw/Leetcode - Merge Sort - 88 Merge Sorted Array.md",
     "LeetCode/Binary Tree/Binary Search Tree/538. Convert BST to Greater Tree.md",
     "LeetCode/Algorithm-Two Pointer",
     "LeetCode/Binary Tree/Binary Tree/108. Convert Sorted Array to Binary Search Tree.md",
@@ -185,7 +190,6 @@
     "LeetCode/Binary Tree/Binary Search Tree/501. Find Mode in Binary Search Tree.md",
     "LeetCode/Binary Tree/Binary Search Tree/530.  Minimum Absolute Difference in BST.md",
     "Excalidraw/Leetcode - Recursion - 24 Swap Nodes in Pairs.md",
-    "Excalidraw/Leetcode - Merge Sort - 88 Merge Sorted Array.md",
     "Excalidraw/Leetcode - Greedy - 376 Wiggle Subsequence.md",
     "Excalidraw/Leetcode - BackTracking - 77 Combinations.md",
     "Excalidraw/Leetcode - Binary Search - 1095 peak find explainnation.md",
