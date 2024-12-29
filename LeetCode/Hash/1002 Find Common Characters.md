@@ -1,3 +1,6 @@
+LeetCode 1002, titled **Find Common Characters**, requires you to identify characters that appear in every string of a given list, including duplicates. Below is a concise overview of the problem, the approach to solve it, and an example implementation.
+
+processing Order 242-1002
 ## Problem Statement
 
 You are given an array of strings `words`. Your task is to identify all characters that appear in every string within this array, and return them in an array format. The order of characters in the output can be arbitrary.
@@ -15,9 +18,18 @@ You are given an array of strings `words`. Your task is to identify all charact
 
 ## Solution Approaches
 
-There are several efficient methods to solve this problem:
+1. **Character Frequency Count**:
+    
+    - Start by counting the frequency of each character in the first word.
+    - For each subsequent word, update the counts to keep only the minimum occurrences of each character found so far.
+2. **Constructing Result**:
+    - Build the result list based on the final counts after processing all words.
 
-## Hash Array Method ( Character Count Array )
+## Approach Video
+
+English Video: https://www.youtube.com/watch?v=QEESBA2Q_88
+
+## Hash Array Approach - Java
 
 based on [[242 Valid Anagram]]
 
@@ -55,6 +67,41 @@ class Solution {
 }
 ```
 
+## Hash Array Approach - Python
 
 
+```python
+class Solution:
 
+    def commonChars(self, words: List[str]) -> List[str]:
+
+        # Initialize result with infinity for each character
+        result = [float('inf')] * 26
+
+        # Count characters in the first word
+        for c in words[0]:
+            count = [0] * 26
+            for c in words[0]:
+                index = ord(c) - ord('a')
+                count[index] += 1
+            for j in range(26):
+                result[j] = min(result[j], count[j])
+
+        # Count characters in subsequent words
+        for i in range(1, len(words)):
+            cur_count = [0] * 26
+            for c in words[i]:
+                index = ord(c) - ord('a')
+                cur_count[index] += 1
+            for j in range(26):
+                result[j] = min(result[j], cur_count[j])
+
+        # Construct output based on result counts
+        output = []
+        for i in range(26):
+            if result[i] > 0 and result[i] != float('inf'):
+                output.extend([chr(i + ord('a'))] * result[i])
+
+
+        return output
+```
